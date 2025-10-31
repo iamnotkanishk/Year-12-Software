@@ -1,0 +1,1 @@
+[{"stmt":"CREATE TABLE IF NOT EXISTS extension (\n  extID INTEGER PRIMARY KEY NOT NULL,\n  name TEXT NOT NULL,\n  hyperlink TEXT NOT NULL,\n  about TEXT NOT NULL,\n  image TEXT NOT NULL,\n  language TEXT NOT NULL\n);","header":[],"rows":[]}]
